@@ -1,0 +1,1 @@
+print("github uchun yaratildi")
